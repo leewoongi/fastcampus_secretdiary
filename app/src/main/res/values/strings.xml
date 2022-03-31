@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">secretDiary</string>
+
+    <string name="title_diary">the secret garden</string>
 </resources>
