@@ -63,7 +63,7 @@
             app:layout_constraintStart_toEndOf="@+id/np_second_password"
             app:layout_constraintTop_toTopOf="@+id/np_first_password" />
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btn_open"
             android:layout_width="40dp"
             android:layout_height="60dp"
@@ -74,7 +74,7 @@
             app:layout_constraintEnd_toStartOf="@+id/np_first_password"
             app:layout_constraintTop_toTopOf="@+id/np_first_password" />
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btn_change_password"
             android:layout_width="10dp"
             android:layout_height="10dp"
